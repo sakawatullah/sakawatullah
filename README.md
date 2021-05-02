@@ -3,9 +3,10 @@
 
 
 ## Skills:
-*JS 
-HTML 
-CSS
+:atom: JS 
+💻HTML 
+💻CSS
+
 
 
 - 🔭 I’m currently working on JS 
