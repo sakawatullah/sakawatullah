@@ -5,9 +5,9 @@
 ## Skills:
 :atom: JS 
 
-.💻HTML 
+💻HTML 
 
-.💻CSS
+💻CSS
 
 
 
