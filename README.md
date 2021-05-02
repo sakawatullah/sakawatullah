@@ -3,9 +3,9 @@
 
 
 ## Skills:
-*:atom: JS 
-*💻HTML 
-*💻CSS
+.:atom: JS 
+.💻HTML 
+.💻CSS
 
 
 
