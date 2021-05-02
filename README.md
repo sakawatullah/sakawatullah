@@ -1,9 +1,9 @@
-#Sakawat Ullah
+# Sakawat Ullah
 ![JS enthusiast](https://media-exp1.licdn.com/dms/image/C4E16AQEHZnFxWuDIsw/profile-displaybackgroundimage-shrink_350_1400/0/1618385316512?e=1625702400&v=beta&t=LmOCSypLD2T5EG47nM8sKc_eDyr8OIR06En4dAJaRTU)
 
 JS enthusiast
 
-Skills: JS / HTML / CSS
+## Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on JS 
 - 🌱 I’m currently learning React 
