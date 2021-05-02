@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Sakawat Ullah
-#### JS enthusiast
+#Sakawat Ullah
 ![JS enthusiast](https://media-exp1.licdn.com/dms/image/C4E16AQEHZnFxWuDIsw/profile-displaybackgroundimage-shrink_350_1400/0/1618385316512?e=1625702400&v=beta&t=LmOCSypLD2T5EG47nM8sKc_eDyr8OIR06En4dAJaRTU)
 
 JS enthusiast
