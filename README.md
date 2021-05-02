@@ -3,8 +3,10 @@
 
 
 ## Skills:
-.:atom: JS 
+:atom: JS 
+
 .💻HTML 
+
 .💻CSS
 
 
